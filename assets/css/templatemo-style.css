@@ -480,6 +480,16 @@ button:hover {
 
 /* My Work */
 
+.project-demo {
+    display: block;
+}
+
+.gif_vids {
+    width: 50%;
+    height: 50%;
+    display: flex;
+}
+
 section.my-work .section-heading {
     text-align: center;
     padding: 80px 45px 50px 45px;
