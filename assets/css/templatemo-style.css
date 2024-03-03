@@ -392,6 +392,17 @@ button:hover {
 
 /* Services */
 
+.about-me-banner img{
+    height: 220px;
+}
+
+.main-content-abt-me {
+    display: flex;
+    background-color: rgba(0, 123, 255, 0.5);
+    padding: 20px;
+    border-radius: 5px;
+}
+
 .my-services .col-md-6 {
     padding-left: 5px;
     padding-right: 5px;
